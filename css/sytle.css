@@ -1,0 +1,12 @@
+@charset "UTF-8";
+h1{
+    text-align: center;
+}
+p{
+    text-align:justify;
+    font-size: 15pt;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+img{
+}
