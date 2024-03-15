@@ -1,10 +1,35 @@
 @charset "UTF-8";
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(41, 41, 56);
+}
 h1{
     text-align: center;
+    font-family: arial;
+}
+h2{
+    text-align: center;
+    color: #fff;
 }
 p{
     text-align:justify;
     font-size: 15pt;
     margin-left: 150px;
     margin-right: 150px;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+    font-family: arial;
+    color: #fff;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    margin-left: 105px;
+    border-bottom: #fff;
 }
