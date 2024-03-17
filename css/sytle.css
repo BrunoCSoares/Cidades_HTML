@@ -8,10 +8,13 @@ body{
 h1{
     text-align: center;
     font-family: arial;
+    color: #fff;
 }
 h2{
     text-align: center;
     color: #fff;
+    width: 40%;
+    margin-left: 5%;
 }
 p{
     text-align:justify;
@@ -32,4 +35,14 @@ li{
     display: inline-block;
     margin-left: 105px;
     border-bottom: #fff;
+}
+.cid{
+    text-align: center;
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+}
+.cid img{
+    padding: 2%;
+    float: left;
 }
