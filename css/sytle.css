@@ -53,3 +53,9 @@ li{
 .cid:hover img{
     transform: scale(1.2);
 }
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
