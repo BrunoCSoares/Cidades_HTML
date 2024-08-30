@@ -1,4 +1,4 @@
-# **10 Cpitais de estados brasileiros** :city_sunrise:
+# **10 Capitais de estados brasileiros** :city_sunrise:
 ### Um passeio pela vastidão de cultura e diversidade que é o nosso Brasil, conhecendo algumas capitais de estados. 
 Dente elas:
 São Paulo (SP);
